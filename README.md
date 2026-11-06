@@ -13,6 +13,10 @@ tap "goodolclint/tap"
 brew "<formula>"
 ```
 
+## Formulae
+
+- `crosstalk`: cross-harness agent messaging for Claude Code and Codex, [getcrosstalk.dev](https://getcrosstalk.dev). Run `crosstalk install` after installing it.
+
 ## Documentation
 
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
