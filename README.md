@@ -15,7 +15,7 @@ brew "<formula>"
 
 ## Formulae
 
-- `crosstalk`: cross-harness agent messaging for Claude Code and Codex, [getcrosstalk.dev](https://getcrosstalk.dev). Run `crosstalk install` after installing it.
+- `crosstalk` (available from release v0.1.4): cross-harness agent messaging for Claude Code and Codex, [getcrosstalk.dev](https://getcrosstalk.dev). Run `crosstalk install` after installing it.
 
 ## Documentation
 
