@@ -5,23 +5,23 @@ class Crosstalk < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/GoodOlClint/CrossTalk/releases/download/v0.2.2/crosstalk-v0.2.2-macos-universal.zip"
-      sha256 "be93a0854a0c197038756eea35ca12f0f3f8c4af4bd28586a13ee3afdf40cab6"
+      url "https://github.com/GoodOlClint/CrossTalk/releases/download/v0.2.3/crosstalk-v0.2.3-macos-universal.zip"
+      sha256 "256a49392aaac91831b3166d6b96ea71a26baa2f8922528d4937380736b26995"
     end
     on_intel do
-      url "https://github.com/GoodOlClint/CrossTalk/releases/download/v0.2.2/crosstalk-v0.2.2-macos-universal.zip"
-      sha256 "be93a0854a0c197038756eea35ca12f0f3f8c4af4bd28586a13ee3afdf40cab6"
+      url "https://github.com/GoodOlClint/CrossTalk/releases/download/v0.2.3/crosstalk-v0.2.3-macos-universal.zip"
+      sha256 "256a49392aaac91831b3166d6b96ea71a26baa2f8922528d4937380736b26995"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/GoodOlClint/CrossTalk/releases/download/v0.2.2/crosstalk-v0.2.2-linux-amd64.tar.gz"
-      sha256 "0c0b98d106067b46e73ebc84f3bc349a21ea57d6bd89699f99efc1e856efb2a5"
+      url "https://github.com/GoodOlClint/CrossTalk/releases/download/v0.2.3/crosstalk-v0.2.3-linux-amd64.tar.gz"
+      sha256 "1d1eb74f2163ba0d9034eba1285e8945b52d7d49e1b8fa0ad24b19a7fde6150d"
     end
     on_arm do
-      url "https://github.com/GoodOlClint/CrossTalk/releases/download/v0.2.2/crosstalk-v0.2.2-linux-arm64.tar.gz"
-      sha256 "eacfae638e4be27b5f56c2cc3b4349d83479f043ba42cf0d5899d5315cbb5f02"
+      url "https://github.com/GoodOlClint/CrossTalk/releases/download/v0.2.3/crosstalk-v0.2.3-linux-arm64.tar.gz"
+      sha256 "b39674fcb16a4fb30b98b4fc9f22e4310ee06f64704e2bd8d53a83eec81ca4b1"
     end
   end
 
